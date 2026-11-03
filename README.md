@@ -3,7 +3,8 @@
 <p align="center">
   <a href="https://codeportala.com">codeportala.com</a> ·
   <a href="https://x.com/whoisadityaj">X @whoisadityaj</a> ·
-  <a href="https://www.linkedin.com/in/iadityajain/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/whoisadityaj/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/whoisadityaj/">Instagram</a> ·
   <a href="mailto:letsmailadityaj@gmail.com">Email</a>
 </p>
 
