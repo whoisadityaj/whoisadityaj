@@ -1,4 +1,4 @@
-<a href="https://codeportala.com"><img src="images/header.svg" alt="Aditya Jain — Building Internet Startups. built 2 Startups." width="100%"></a>
+<a href="https://codeportala.com"><img src="images/header-v2.svg" alt="Aditya Jain — Building Internet Startups." width="100%"></a>
 
 <p align="center">
   <a href="https://codeportala.com">codeportala.com</a> ·
