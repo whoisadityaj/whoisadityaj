@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <title>HushMouse app icon</title>
+  <defs>
+    <linearGradient id="hm-tile" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffece2"/><stop offset="1" stop-color="#ffd3bd"/></linearGradient>
+    <filter id="hm-shadow" x="-10%" y="-10%" width="120%" height="125%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#15151c" flood-opacity=".22"/></filter>
+  </defs>
+  <rect x="100" y="100" width="824" height="824" rx="185" fill="url(#hm-tile)" filter="url(#hm-shadow)"/>
+  <rect x="292" y="168" width="440" height="700" rx="220" fill="#ffffff" stroke="#15151c" stroke-width="26"/>
+  <path d="M512 168V330" stroke="#15151c" stroke-width="26" stroke-linecap="round"/>
+  <g stroke="#15151c" stroke-width="22" stroke-linejoin="round" fill="#fff3b3">
+    <path transform="translate(512 420) rotate(24)" d="M-270 -58 L270 -58 L255 -29 L270 0 L255 29 L270 58 L-270 58 L-255 29 L-270 0 L-255 -29 Z"/>
+    <path transform="translate(512 420) rotate(-24)" d="M-270 -58 L270 -58 L255 -29 L270 0 L255 29 L270 58 L-270 58 L-255 29 L-270 0 L-255 -29 Z"/>
+  </g>
+</svg>
