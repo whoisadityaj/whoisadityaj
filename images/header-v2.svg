@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Aditya Jain — Building Internet Startups.">
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eaf3ff"/><stop offset="1" stop-color="#fff3dc"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="338" rx="28" fill="#f5f5f3" stroke="#e2e4e2" stroke-width="2"/>
+  <circle cx="980" cy="170" r="150" fill="url(#glow)" opacity=".9">
+    <animate attributeName="r" values="140;158;140" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur=".9s" begin=".3s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 14" to="0 0" dur=".9s" begin=".3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .25 1"/>
+    <text x="76" y="168" font-family="Georgia, 'Times New Roman', serif" font-size="82" letter-spacing="-2" fill="#252728">Aditya Jain</text>
+  </g>
+  
+    <clipPath id="type"><rect x="80" y="196" height="56" width="0">
+      <animate attributeName="width" from="0" to="392" begin=".8s" dur="1.2s" fill="freeze"/>
+    </rect></clipPath>
+    <text x="80" y="238" clip-path="url(#type)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="500" fill="#176fd1">Building Internet Startups.</text>
+    <rect x="86" y="204" width="3" height="40" fill="#176fd1">
+      <animate attributeName="x" from="86" to="478" begin=".8s" dur="1.2s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0" keyTimes="0;.5" dur="1s" begin="2s" repeatCount="indefinite" calcMode="discrete"/>
+    </rect>
+  <text x="80" y="296" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#6d7273">codeportala.com</text>
+
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+    <rect x="860" y="60" width="140" height="140" rx="32" fill="#ffffff" stroke="#e2e4e2" stroke-width="2"/>
+    <svg x="872" y="72" width="116" height="116" viewBox="96 193 320 230">
+  
+  <g id="u-soft-bullion">
+    <path fill="#c99520" d="M 120.00 312.00 Q 120.00 292.00 138.90 285.45 L 303.10 228.55 Q 322.00 222.00 339.33 231.98 L 370.67 250.02 Q 388.00 260.00 388.00 280.00 L 388.00 304.00 Q 388.00 324.00 369.10 330.55 L 204.90 387.45 Q 186.00 394.00 168.67 384.02 L 137.33 365.98 Q 120.00 356.00 120.00 336.00 Z"/>
+    <path fill="#7a5306" d="M 196.10 341.70 Q 196.10 329.70 207.44 325.77 L 366.56 270.63 Q 377.90 266.70 377.90 278.70 L 377.90 312.30 Q 377.90 324.30 366.56 328.23 L 207.44 383.37 Q 196.10 387.30 196.10 375.30 Z"/>
+    <path fill="#e8c15f" d="M 140.57 299.18 Q 126.70 291.20 141.82 285.96 L 303.48 229.94 Q 318.60 224.70 332.47 232.68 L 367.43 252.82 Q 381.30 260.80 366.18 266.04 L 204.52 322.06 Q 189.40 327.30 175.53 319.32 Z"/>
+  </g>
+</svg>
+  </g>
+  <g><animateTransform attributeName="transform" type="translate" values="0 0;0 10;0 0" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+    <rect x="980" y="150" width="140" height="140" rx="32" fill="#ffffff" stroke="#e2e4e2" stroke-width="2"/>
+    <svg x="990" y="160" width="120" height="120" viewBox="0 0 1024 1024">
+  
+  <defs>
+    <linearGradient id="h-hm-tile" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffece2"/><stop offset="1" stop-color="#ffd3bd"/></linearGradient>
+    <filter id="h-hm-shadow" x="-10%" y="-10%" width="120%" height="125%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#15151c" flood-opacity=".22"/></filter>
+  </defs>
+  <rect x="100" y="100" width="824" height="824" rx="185" fill="url(#h-hm-tile)" filter="url(#h-hm-shadow)"/>
+  <rect x="292" y="168" width="440" height="700" rx="220" fill="#ffffff" stroke="#15151c" stroke-width="26"/>
+  <path d="M512 168V330" stroke="#15151c" stroke-width="26" stroke-linecap="round"/>
+  <g stroke="#15151c" stroke-width="22" stroke-linejoin="round" fill="#fff3b3">
+    <path transform="translate(512 420) rotate(24)" d="M-270 -58 L270 -58 L255 -29 L270 0 L255 29 L270 58 L-270 58 L-255 29 L-270 0 L-255 -29 Z"/>
+    <path transform="translate(512 420) rotate(-24)" d="M-270 -58 L270 -58 L255 -29 L270 0 L255 29 L270 58 L-270 58 L-255 29 L-270 0 L-255 -29 Z"/>
+  </g>
+</svg>
+  </g>
+</svg>
