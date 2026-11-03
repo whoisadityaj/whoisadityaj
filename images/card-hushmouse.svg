@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="230" viewBox="0 0 580 230" role="img" aria-label="HushMouse: A tiny, private macOS menu-bar app that shows the shortcut you could have pressed.">
+  <defs>
+    <clipPath id="card"><rect x="1" y="1" width="578" height="228" rx="24"/></clipPath>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f08a5d" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#f08a5d" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#f08a5d" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="578" height="228" rx="24" fill="#ffffff" stroke="#e2e4e2" stroke-width="2"/>
+  <g clip-path="url(#card)">
+    <rect y="0" width="160" height="230" fill="url(#shine)" transform="skewX(-20)">
+      <animate attributeName="x" values="-300;-300;780" keyTimes="0;.55;1" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+    <rect x="32" y="40" width="112" height="112" rx="28" fill="#f5f5f3" stroke="#e2e4e2" stroke-width="2"/>
+    <svg x="40" y="48" width="96" height="96" viewBox="0 0 1024 1024">
+  
+  <defs>
+    <linearGradient id="h-hm-tile" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffece2"/><stop offset="1" stop-color="#ffd3bd"/></linearGradient>
+    <filter id="h-hm-shadow" x="-10%" y="-10%" width="120%" height="125%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#15151c" flood-opacity=".22"/></filter>
+  </defs>
+  <rect x="100" y="100" width="824" height="824" rx="185" fill="url(#h-hm-tile)" filter="url(#h-hm-shadow)"/>
+  <rect x="292" y="168" width="440" height="700" rx="220" fill="#ffffff" stroke="#15151c" stroke-width="26"/>
+  <path d="M512 168V330" stroke="#15151c" stroke-width="26" stroke-linecap="round"/>
+  <g stroke="#15151c" stroke-width="22" stroke-linejoin="round" fill="#fff3b3">
+    <path transform="translate(512 420) rotate(24)" d="M-270 -58 L270 -58 L255 -29 L270 0 L255 29 L270 58 L-270 58 L-255 29 L-270 0 L-255 -29 Z"/>
+    <path transform="translate(512 420) rotate(-24)" d="M-270 -58 L270 -58 L255 -29 L270 0 L255 29 L270 58 L-270 58 L-255 29 L-270 0 L-255 -29 Z"/>
+  </g>
+</svg>
+  </g>
+  <text x="168" y="84" font-family="Georgia, 'Times New Roman', serif" font-size="36" letter-spacing="-.5" fill="#252728">HushMouse</text>
+  <text x="168" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#6d7273">A tiny, private macOS menu-bar app that</text><text x="168" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#6d7273">shows the shortcut you could have pressed.</text>
+  <rect x="32" y="176" width="108" height="30" rx="15" fill="#e8f6ec"/>
+  <circle cx="50" cy="191" r="5" fill="#1f9d55"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+  <text x="62" y="196" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#1f7a45">Launched</text>
+  <text x="548" y="197" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#176fd1">hushmouse.com →</text>
+</svg>
