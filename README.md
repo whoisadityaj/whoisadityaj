@@ -20,8 +20,7 @@ CodePortala is where I keep building from there.
 
 ## Follow along
 
-Startup updates and honest lessons, only when there's something worth sharing →
-[@whoisadityaj on X](https://x.com/whoisadityaj)
+Startup updates and honest lessons, only when there's something worth sharing.
 
 ---
 
