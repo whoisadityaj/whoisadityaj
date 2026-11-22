@@ -30,7 +30,3 @@
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whoisadityaj&hide_border=true&background=F5F5F3&ring=176FD1&fire=C98C22&currStreakLabel=176FD1&sideLabels=252728&currStreakNum=252728&sideNums=252728&dates=6D7273&stroke=E2E4E2" alt="GitHub streak" width="70%" />
-</p>
